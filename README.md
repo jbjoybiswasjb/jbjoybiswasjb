@@ -1,3 +1,7 @@
+<!-- banner image starts here  -->
+<img src="./images/Banner.jpg" width="100%">
+<!-- banner image ends here  -->
+
 <h1 align="center">Hi 👋, I'm Joy Biswas</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Bangladesh</h3>
 
