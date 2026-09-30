@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Joy Biswas 👋
 
-<!--
-**jbjoybiswasjb/jbjoybiswasjb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Web Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building modern,
+responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Firebase, Vercel
+
+### 🚀 What I'm Working On
+
+- Building full-stack web applications
+- Improving my React and Next.js skills
+- Learning backend development with Node.js and Express
+- Practicing problem solving and DSA
+
+### 📌 Currently Looking For
+
+**Junior / Entry-Level Software Engineer or Full-Stack Web Developer opportunities.**
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/jbjoybiswasjb
