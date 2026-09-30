@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="./images/Banner.JPG" width="100%">
+<img src="./Banner.JPG" width="100%">
 <!-- banner image ends here  -->
 
 <h1 align="center">Hi 👋, I'm Joy Biswas</h1>
